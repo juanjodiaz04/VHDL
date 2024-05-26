@@ -1,2 +1,2 @@
 # VHDL
- For VHDL Related Projects
+ For VHDL related coding
